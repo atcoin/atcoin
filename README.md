@@ -1,8 +1,8 @@
 Aliencoin - a fork of Litecoin version with fast block time and faster confirmations (2 confirmations needed instead of 6). Like Litecoin it uses scrypt as a proof of work scheme.
 
-	- 30 second block target
+	- 60 second block target
 	- Difficulty retargets every 1 hour
-	- Total coins will be around 200 million. 
+	- Total coins will be around 10000 million. 
 	- Each block will have 40 coins per block
 	- Block subsidy halves once per year.
 	- The default ports are 52112 (connect) and 52111 (json rpc).
